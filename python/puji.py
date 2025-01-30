@@ -1,0 +1,12 @@
+#print("string manupulation exescuse")
+#print('string cancatenation is done with"+"sign')
+#print('eg: print ("hello"+"jenny")')
+#print("new lines can be created with a black slash and n")
+#input("what is your name ? ")
+#input("what is your name ?")
+#print("hey" +  " "+input('what is your name  ') + " ,"+ ("how are you"))
+#name=input("what is your name?")
+#name='harika'
+#(len(name))
+name = input("what is your name?")
+print(name)
